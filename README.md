@@ -9,7 +9,7 @@ javac GuessingGame.java Main.java UnitTests.java FunctionalTest.java
 ```
 3. To create executible jar file, input
 ```
-jar cvfm Guess.jar manifest.txt *.class *.txt" to create executible jar file
+jar cvfm Guess.jar manifest.txt *.class *.txt
 ```
 4. There are three different ways to run the program: 
 4a. To play the game, input "" to play the game
